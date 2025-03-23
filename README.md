@@ -4,6 +4,8 @@ This project provides a flexible framework for various text understanding and ge
 
 ## Overview
 
+![alt text]([(https://github.com/dmitry-psv/FewShotKit/blob/main/algo.png?raw=true)])
+
 The framework consists of several modules:
 
 1.  **Data Loading**: Reads seed and unlabeled datasets from local files.
