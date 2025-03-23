@@ -1,4 +1,4 @@
-# Framework for Text Understanding and Generation
+# Framework for Training Datasets Generation
 
 This project provides a flexible framework for various text understanding and generation tasks, leveraging machine learning techniques, vector databases, and large language models (LLMs). While primarily designed for dialogue summarization, it can be adapted for other applications such as question answering, text classification, and content generation.
 
