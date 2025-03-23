@@ -40,8 +40,8 @@ The main workflow is orchestrated in the `algorithm.ipynb` Jupyter Notebook. Fol
 1.  Load and preprocess the data.
 2.  Generate embeddings for the text data.
 3.  Store the embeddings in the Milvus vector database.
-4.  Iterate through the unlabeled data, retrieve nearest neighbors from the vector database, and generate summaries using an LLM.
-5.  Update the vector database with the generated summaries.
+4.  Iterate through the unlabeled data, retrieve nearest neighbors from the vector database, and generate new data using an LLM.
+5.  Update the vector database with the generated data and use it in followed cycles.
 
 
 ## Configuration
